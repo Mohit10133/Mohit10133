@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Mohit Manoj!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=435&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;AI+Developer;Computer+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=435&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;AI+Developer;Data+Analyst" alt="Typing SVG" />
 </div>
 
 <div align="center">
