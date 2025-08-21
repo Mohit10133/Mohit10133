@@ -64,6 +64,10 @@ I'm a passionate Machine Learning Engineer and Data Scientist focused on develop
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit10133&theme=tokyonight" alt="GitHub Streak" height="200" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit10133&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="495"/>
+</div>
+
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on innovative projects in:
