@@ -51,7 +51,7 @@ I'm a passionate Machine Learning Engineer and Data Scientist focused on develop
 - Built interactive web interface using Streamlit
 - Technologies: TensorFlow, Streamlit, OpenCV, Python
 
-### 2. [Earthquake magnitude prediction]([Link-to-repo](https://github.com/Mohit10133/Earthquake_magnitude_Prediction))
+### 2. [Earthquake magnitude prediction](https://github.com/Mohit10133/Earthquake_magnitude_Prediction)
 - SDG-Aligned – Supports disaster preparedness (SDG 11 & 13).
 - Predictive Modeling – Uses seismic data (time, location, depth) for magnitude prediction.
 - Web App – Streamlit interface for real-time user input & results.
